@@ -7,3 +7,28 @@
 * [AWS Fundamentals: Going Cloud-Native (Amazon Web Services) [August, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_AWS_AWS_Fundamentals_Going_Cloud_Native.pdf "View Certficate")
 * [Introduction to Cloud Computing (IBM) [June, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_IBM_Introduction_to_Cloud_Computing.pdf "View Certficate")
 * [IT Security: Defense Against the Digital Dark Arts (Google) [May, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_Google_IT_Security_Defense_Against_The_Digital_Dark_Arts.pdf "View Certficate")
+* [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential (McMaster University) [May, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_McMaster_Mindshift_Break_Through_Obstacles.pdf "View Certficate")
+* [Learn to Program: The Fundamentals (University of Toronto) [July, 2019].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_UofT_Learn_to_Program_The_Fundamentals.pdf "View Certficate")
+* [Interactivity with JavaScript (University of Michigan) [July, 2018].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_UMICH_Interactivity_with_JavaScript.pdf "View Certficate")
+* [Introduction to HTML5 (University of Michigan) [July, 2018].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_UMICH_Introduction_to_HTML5.pdf "View Certficate")
+* [Introduction to CSS3 (University of Michigan) [June, 2018].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_UMICH_Introduction_to_CSS3.pdf "View Certficate")
+
+## LinkedIn Learning
+
+* [CSS Essential Training [January, 2021].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_CSS_Essential_Training.pdf "View Certficate")
+* [JavaScript Essential Training [December, 2020].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_JavaScript_Essential_Training.pdf "View Certficate")
+* [Programming Foundations: Web Security [August, 2020].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_Programming_Foundations_Web_Security.pdf "View Certficate")
+
+## HackerRank
+
+* [HackerRank Java (Intermediate) Certificate [September, 2020].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_Java_Intermediate.png "View Certficate")
+* [HackerRank Java (Basic) Certificate [June, 2020].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_Java_Basic.png "View Certficate")
+
+## freeCodeCamp
+
+* [APIs and Microservices Certification [Febuary, 2021].](https://github.com/husbankhalid/Certifications/blob/master/freeCodeCamp/Husban_freeCodeCamp_APIs_and_Microservices_Certification.png "View Certficate")
+
+## MongoDB University
+
+* [M001: MongoDB Basics [Febuary, 2021].](https://github.com/husbankhalid/Certifications/blob/master/MongoDB/Husban_MongoDB_M001_MongoDB_Basics.jpeg "View Certficate")
+ 
