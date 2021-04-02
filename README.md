@@ -21,6 +21,7 @@
 
 ## HackerRank
 
+* [HackerRank SQL (Basic) Certificate [April, 2021].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_SQL_Basic.png "View Certficate")
 * [HackerRank JavaScript (Basic) Certificate [March, 2021].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_JavaScript_Basic.png "View Certficate")
 * [HackerRank Java (Intermediate) Certificate [September, 2020].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_Java_Intermediate.png "View Certficate")
 * [HackerRank Java (Basic) Certificate [June, 2020].](https://github.com/husbankhalid/Certifications/blob/master/HackerRank/Husban_HackerRank_Java_Basic.png "View Certficate")
