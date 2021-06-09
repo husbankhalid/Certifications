@@ -2,6 +2,7 @@
 
 
 ## Coursera
+* [Version Control with Git (Atlassian) [June, 2021].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_Atlassian_Version_Control_wIth_Git.pdf "View Certficate")
 * [Introduction to Git and GitHub (Google) [January, 2021].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_Google_Introduction_to_Git_and_GitHub.pdf "View Certficate")
 * [Learning How To Learn for Youth (Arizona State University) [September, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_ASU_Learning_How_to_Learn_for_Youth.pdf "View Certficate")
 * [AWS Fundamentals: Going Cloud-Native (Amazon Web Services) [August, 2020].](https://github.com/husbankhalid/Certifications/blob/master/Coursera/Husban_Coursera_AWS_AWS_Fundamentals_Going_Cloud_Native.pdf "View Certficate")
