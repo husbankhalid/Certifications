@@ -34,10 +34,10 @@
 
 * [JavaScript Algorithms and Data Structures Certification [March, 2021].](https://github.com/husbankhalid/Certifications/blob/master/freeCodeCamp/Husban_freeCodeCamp_JavaScript_Algorithms_and_Data_Structures_Certification.png
  "View Certficate")
-* [Back End Development and APIs [Febuary, 2021].](https://github.com/husbankhalid/Certifications/blob/master/freeCodeCamp/Husban_freeCodeCamp_Back_End_Development_and_APIs.png "View Certficate")
+* [Back End Development and APIs [February, 2021].](https://github.com/husbankhalid/Certifications/blob/master/freeCodeCamp/Husban_freeCodeCamp_Back_End_Development_and_APIs.png "View Certficate")
 
 ## MongoDB University
 
 * [M220JS: MongoDB for JavaScript Developers [October, 2021].](https://github.com/husbankhalid/Certifications/blob/master/MongoDB/Husban_MongoDB_M220JS_MongoDB_for_JavaScript_Developers.jpeg "View Certficate")
-* [M001: MongoDB Basics [Febuary, 2021].](https://github.com/husbankhalid/Certifications/blob/master/MongoDB/Husban_MongoDB_M001_MongoDB_Basics.jpeg "View Certficate")
+* [M001: MongoDB Basics [February, 2021].](https://github.com/husbankhalid/Certifications/blob/master/MongoDB/Husban_MongoDB_M001_MongoDB_Basics.jpeg "View Certficate")
  
