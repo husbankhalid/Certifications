@@ -17,6 +17,7 @@
 
 ## LinkedIn Learning
 
+* [Programming Foundations: Databases [September, 2022].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_Programming_Foundations_Databases.pdf "View Certficate")
 * [CSS Essential Training [January, 2021].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_CSS_Essential_Training.pdf "View Certficate")
 * [JavaScript Essential Training [December, 2020].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_JavaScript_Essential_Training.pdf "View Certficate")
 * [Programming Foundations: Web Security [August, 2020].](https://github.com/husbankhalid/Certifications/blob/master/LinkedIn/Husban_LinkedIn_Programming_Foundations_Web_Security.pdf "View Certficate")
